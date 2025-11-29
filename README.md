@@ -73,9 +73,11 @@ GRANT ALL PRIVILEGES ON wordpress.* TO 'wordpress'@'localhost';
 ### 3.8 Configurarea WordPress
 
 Fiind accesata la:
-http://localhost:8000/
+http://localhost:8000/<img width="1512" height="623" alt="Screenshot 2025-11-29 at 19 18 00" src="https://github.com/user-attachments/assets/5b0915a2-5e7a-4b52-b00b-323edfc21608" />
 
-WordPress a fost configurat iar wp-config.php a fost adaugat in imagine.
+
+WordPress a fost configurat iar wp-config.php a fost adaugat in imagine.<img width="750" height="418" alt="Screenshot 2025-11-29 at 19 16 48" src="https://github.com/user-attachments/assets/b9d5cfa4-f10d-4021-836f-e0e8e71f728c" />
+
 
 ## 4. Raspunsuri la intrebarile de control
 
